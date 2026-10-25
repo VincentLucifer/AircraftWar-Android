@@ -56,8 +56,8 @@ Updates cover spawning, shooting, movement, collision checks and invalid-object 
 | Java source compatibility | Java 8 |
 
 ```bash
-git clone https://github.com/VincentLucifer/AircraftWar2024_220110120_wzf.git
-cd AircraftWar2024_220110120_wzf
+git clone https://github.com/VincentLucifer/AircraftWar-Android.git
+cd AircraftWar-Android
 
 # Linux / macOS
 ./gradlew assembleDebug
